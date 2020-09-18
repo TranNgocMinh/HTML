@@ -5,7 +5,7 @@
 3. Cấu trúc trang HTML(<a href="https://ngocminhtran.com/2017/07/07/cau-truc-trang-web-html-tinh/">Nhấn vào đây để tham khảo</a>)<br>
 ## Hoàn thành các bài tập về thẻ HTML
 1. Xem minh họa trước khi sang bước kế tiếp<br>
-[Minh họa cách thực hiện bài đánh giá từ Github Classroom và môi trường Repl.it](https://youtu.be/xyQ3un1Q2MI){:target="_blank"}
+<a href="https://youtu.be/xyQ3un1Q2MI" target="_blank">Minh họa cách thực hiện bài đánh giá từ Github Classroom và môi trường Repl.it</a>
 2. Nhấn vào nút <b>Work in Repl.it</b> ở trên để đến môi trường soạn thảo<br>
 3. Mở lần lượt các tập tin *.html (ví dụ title.html, heading.html,...) và hoàn thành các yêu cầu nêu trong mỗi tập tin.<br>
 4. Nhấn nút Run từ môi trường <b>Repl.it</b> sau khi hoàn thành một tập tin và xem kết quả từ khung bên phải.<br>
