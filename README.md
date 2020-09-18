@@ -5,7 +5,7 @@
 3. Cấu trúc trang HTML(<a href="https://ngocminhtran.com/2017/07/07/cau-truc-trang-web-html-tinh/">Nhấn vào đây để tham khảo</a>)<br>
 ## Hoàn thành các bài tập về thẻ HTML
 1. Xem minh họa trước khi sang bước kế tiếp<br>
-https://youtu.be/xyQ3un1Q2MI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyQ3un1Q2MI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 2. Nhấn vào nút <b>Work in Repl.it</b> ở trên để đến môi trường soạn thảo<br>
 3. Mở lần lượt các tập tin *.html (ví dụ title.html, heading.html,...) và hoàn thành các yêu cầu nêu trong mỗi tập tin.<br>
 4. Nhấn nút Run từ môi trường <b>Repl.it</b> sau khi hoàn thành một tập tin và xem kết quả từ khung bên phải.<br>
